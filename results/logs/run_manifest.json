@@ -1,0 +1,30 @@
+{
+  "python": "3.12.3 (main, Mar  3 2026, 12:15:18) [GCC 13.3.0]",
+  "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.4.4",
+    "pandas": "3.0.2",
+    "scipy": "1.17.1",
+    "statsmodels": "0.15.0",
+    "arch": "8.0.0",
+    "matplotlib": "3.10.8"
+  },
+  "event_date": "2014-03-10",
+  "confounding_dates": [
+    "2014-07-17"
+  ],
+  "random_seed": 3702014,
+  "timings_seconds": {
+    "Ch.3 data diagnostics": 1.6,
+    "Ch.4 event study": 3.2,
+    "Ch.6 volatility": 1.8,
+    "Ch.7 GARCH-VaR": 399.4,
+    "Ch.5 contagion tests": 11.5,
+    "Robustness checks": 5.6,
+    "Table 4-4 multi-factor": 5.8,
+    "Ch.8-9 power and summary": 0.5,
+    "Figures": 3.1
+  },
+  "elapsed_seconds": 432.7,
+  "command": "/home/claude/MH370_capital_market_study/mh370_study/run_all.py"
+}

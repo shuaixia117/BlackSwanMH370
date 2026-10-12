@@ -1,0 +1,76 @@
+Ticker,N,First,Last,N_pre_event,N_post_event,Est_Window_Satisfiable,exposure_group,industry_group,country_or_region
+003490.KS,1234,2012-01-03,2016-12-29,539,695,True,asia_pacific_airline_exposure,airline,South Korea
+0069.HK,1231,2012-01-04,2016-12-30,535,696,True,tourism_demand_exposure,tourism_hotel,Hong Kong
+020560.KS,1234,2012-01-03,2016-12-29,539,695,True,asia_pacific_airline_exposure,airline,South Korea
+0293.HK,1231,2012-01-04,2016-12-30,535,696,True,asia_pacific_airline_exposure,airline,Hong Kong
+0670.HK,1231,2012-01-04,2016-12-30,535,696,True,direct_malaysia_china_exposure,airline,China
+0694.HK,1231,2012-01-04,2016-12-30,535,696,True,airport_infrastructure_exposure,airport,China
+0753.HK,1231,2012-01-04,2016-12-30,535,696,True,direct_malaysia_china_exposure,airline,China
+1023.KL,1233,2012-01-04,2016-12-30,534,699,True,insurance_finance_exposure,insurance_finance,Malaysia
+1055.HK,1231,2012-01-04,2016-12-30,535,696,True,direct_malaysia_china_exposure,airline,China
+1155.KL,1233,2012-01-04,2016-12-30,534,699,True,insurance_finance_exposure,insurance_finance,Malaysia
+1295.KL,1233,2012-01-04,2016-12-30,534,699,True,insurance_finance_exposure,insurance_finance,Malaysia
+1339.HK,1000,2012-12-10,2016-12-30,304,696,True,insurance_finance_exposure,insurance_finance,China
+2318.HK,1231,2012-01-04,2016-12-30,535,696,True,insurance_finance_exposure,insurance_finance,China
+2601.HK,1231,2012-01-04,2016-12-30,535,696,True,insurance_finance_exposure,insurance_finance,China
+4715.KL,1233,2012-01-04,2016-12-30,534,699,True,tourism_demand_exposure,tourism_hotel,Malaysia
+5099.KL,1233,2012-01-04,2016-12-30,534,699,True,direct_malaysia_china_exposure,airline,Malaysia
+5819.KL,1233,2012-01-04,2016-12-30,534,699,True,insurance_finance_exposure,insurance_finance,Malaysia
+600004.SS,1213,2012-01-05,2016-12-30,522,691,True,airport_infrastructure_exposure,airport,China
+600009.SS,1213,2012-01-05,2016-12-30,522,691,True,airport_infrastructure_exposure,airport,China
+600754.SS,1213,2012-01-05,2016-12-30,522,691,True,tourism_demand_exposure,tourism_hotel,China
+8630.T,1225,2012-01-05,2016-12-30,535,690,True,insurance_finance_exposure,insurance_finance,Japan
+8725.T,1225,2012-01-05,2016-12-30,535,690,True,insurance_finance_exposure,insurance_finance,Japan
+8766.T,1225,2012-01-05,2016-12-30,535,690,True,insurance_finance_exposure,insurance_finance,Japan
+9201.T,1047,2012-09-20,2016-12-30,357,690,True,asia_pacific_airline_exposure,airline,Japan
+9202.T,1225,2012-01-05,2016-12-30,535,690,True,asia_pacific_airline_exposure,airline,Japan
+AAL,1257,2012-01-04,2016-12-30,546,711,True,global_airline_exposure,airline,United States
+AC.PA,1276,2012-01-03,2016-12-30,555,721,True,tourism_demand_exposure,tourism_hotel,France
+AC.TO,1254,2012-01-04,2016-12-30,547,707,True,global_airline_exposure,airline,Canada
+ADP.PA,1276,2012-01-03,2016-12-30,555,721,True,airport_infrastructure_exposure,airport,France
+AF.PA,1276,2012-01-03,2016-12-30,555,721,True,global_airline_exposure,airline,France
+AIA.NZ,1254,2012-01-03,2016-12-29,545,709,True,airport_infrastructure_exposure,airport,New Zealand
+AIG,1257,2012-01-04,2016-12-30,546,711,True,insurance_finance_exposure,insurance_finance,United States
+AIRPORT.KL,1193,2012-01-04,2016-12-30,516,677,True,airport_infrastructure_exposure,airport,Malaysia
+AIR.NZ,1254,2012-01-03,2016-12-29,545,709,True,asia_pacific_airline_exposure,airline,New Zealand
+ALGT,1257,2012-01-04,2016-12-30,546,711,True,regional_airline_exposure,airline,United States
+ALK,1257,2012-01-04,2016-12-30,546,711,True,regional_airline_exposure,airline,United States
+ALV.DE,1265,2012-01-03,2016-12-30,551,714,True,insurance_finance_exposure,insurance_finance,Germany
+ASR,1257,2012-01-04,2016-12-30,546,711,True,airport_infrastructure_exposure,airport,Mexico/United States ADR
+BKNG,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United States
+C6L.SI,1253,2012-01-04,2016-12-30,546,707,True,asia_pacific_airline_exposure,airline,Singapore
+CHH,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United States
+CPA,1257,2012-01-04,2016-12-30,546,711,True,regional_airline_exposure,airline,Panama/United States
+CS.PA,1276,2012-01-03,2016-12-30,555,721,True,insurance_finance_exposure,insurance_finance,France
+DAL,1257,2012-01-04,2016-12-30,546,711,True,global_airline_exposure,airline,United States
+EXPE,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United States
+EZJ.L,1262,2012-01-04,2016-12-30,550,712,True,global_airline_exposure,airline,United Kingdom
+FHZN.SW,1252,2012-01-04,2016-12-30,544,708,True,airport_infrastructure_exposure,airport,Switzerland
+FLT.AX,1266,2012-01-03,2016-12-29,552,714,True,tourism_demand_exposure,tourism_hotel,Australia
+FLU.VI,1238,2012-01-03,2016-12-29,540,698,True,airport_infrastructure_exposure,airport,Austria
+FRA.DE,1265,2012-01-03,2016-12-30,551,714,True,airport_infrastructure_exposure,airport,Germany
+H,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United States
+IAG.L,1262,2012-01-04,2016-12-30,550,712,True,global_airline_exposure,airline,United Kingdom
+IHG,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United Kingdom
+JBLU,1257,2012-01-04,2016-12-30,546,711,True,regional_airline_exposure,airline,United States
+LHA.DE,1265,2012-01-03,2016-12-30,551,714,True,global_airline_exposure,airline,Germany
+LUV,1257,2012-01-04,2016-12-30,546,711,True,global_airline_exposure,airline,United States
+MAR,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United States
+MEL.MC,1278,2012-01-03,2016-12-30,557,721,True,tourism_demand_exposure,tourism_hotel,Spain
+MUV2.DE,1265,2012-01-03,2016-12-30,551,714,True,insurance_finance_exposure,insurance_finance,Germany
+NAS.OL,1253,2012-01-03,2016-12-30,546,707,True,regional_airline_exposure,airline,Norway
+OMAB,1257,2012-01-04,2016-12-30,546,711,True,airport_infrastructure_exposure,airport,Mexico/United States ADR
+PAC,1257,2012-01-04,2016-12-30,546,711,True,airport_infrastructure_exposure,airport,Mexico/United States ADR
+QAN.AX,1266,2012-01-03,2016-12-29,552,714,True,asia_pacific_airline_exposure,airline,Australia
+QBE.AX,1266,2012-01-03,2016-12-29,552,714,True,insurance_finance_exposure,insurance_finance,Australia
+RYAAY,1257,2012-01-04,2016-12-30,546,711,True,global_airline_exposure,airline,Ireland
+SKYW,1257,2012-01-04,2016-12-30,546,711,True,regional_airline_exposure,airline,United States
+SREN.SW,1252,2012-01-04,2016-12-30,544,708,True,insurance_finance_exposure,insurance_finance,Switzerland
+TAVHL.IS,1304,2012-01-03,2016-12-30,569,735,True,airport_infrastructure_exposure,airport,Turkey
+TCOM,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,China
+THAI.BK,1222,2012-01-05,2016-12-30,535,687,True,asia_pacific_airline_exposure,airline,Thailand
+THYAO.IS,1304,2012-01-03,2016-12-30,569,735,True,global_airline_exposure,airline,Turkey
+TUI1.DE,1265,2012-01-03,2016-12-30,551,714,True,tourism_demand_exposure,tourism_hotel,Germany/United Kingdom
+TZOO,1257,2012-01-04,2016-12-30,546,711,True,tourism_demand_exposure,tourism_hotel,United States
+UAL,1257,2012-01-04,2016-12-30,546,711,True,global_airline_exposure,airline,United States
+WEB.AX,1266,2012-01-03,2016-12-29,552,714,True,tourism_demand_exposure,tourism_hotel,Australia

@@ -1,0 +1,6 @@
+result,estimate,primary_inference,MDE_80pct,verdict
+"Aggregate CAR (long, [-5,+30])",-0.0237,ADJ-BMP p=0.203,0.0469,decline of 2.37%; significant only before cross-sectional-correlation correction; underpowered for a 3% effect (MDE=0.047)
+"Contagion (Forbes-Rigobon, MH17-free windows <=+60)",-0.115,FDR-reject contagion 0/38 (w90 spanning MH17 reported separately),0.0987,"no contagion in MH17-free windows; interdependence, not contagion"
+Persistent idiosyncratic volatility (DiD: treated vs control),-0.0379,perm p=0.665; treated n=13 (MDE=0.094),0.0938,no MH370-specific amplification after differencing the 2013-14 regime
+"Tail model risk (multinomial multi-level VaR, Nass-corrected)",21/75 firms reject,Kratz multinomial chi-square + Nass,,standard GARCH under-covers tails for 21/75 firms
+Exposure gradient & size moderation (supplementary),0.0066,HC3 regression / permutation,0.0544,no detectable exposure gradient; underpowered

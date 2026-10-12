@@ -1,0 +1,8 @@
+check,value,status
+FF3_ok_assets,75.0,PASS
+FF3_median_r2,0.25340244213990115,INFO
+FF3_total_fdr_rejections,0.0,INFO
+FF5_ok_assets,75.0,PASS
+FF5_median_r2,0.264214978668871,INFO
+FF5_total_fdr_rejections,0.0,INFO
+event_rows_not_ok,0.0,INFO

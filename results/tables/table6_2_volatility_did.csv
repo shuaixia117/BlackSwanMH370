@@ -1,0 +1,3 @@
+outcome,n_treated,n_control,mean_treated,mean_control,DiD_treated_minus_control,perm_p
+idiosyncratic_logAVR_DiD,13,62,-0.1877323588838842,-0.14983156512691811,-0.03790079375696609,0.6649
+market_relative_logAVR_DiD,13,62,0.20413436275734073,0.0736488937687906,0.13048546898855012,0.1746

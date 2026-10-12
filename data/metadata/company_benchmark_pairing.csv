@@ -1,0 +1,76 @@
+ticker,company_name,benchmark_ticker,benchmark_name,benchmark_assignment_rule,company_exchange,company_country_or_region,benchmark_country_or_region,company_currency,benchmark_currency,pairing_validated,pairing_notes
+0753.HK,Air China,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+0670.HK,China Eastern Airlines,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+1055.HK,China Southern Airlines,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+5099.KL,AirAsia Capital A,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+C6L.SI,Singapore Airlines,^STI,Straits Times Index,Singapore listing market,Singapore Exchange,Singapore,Singapore,SGD,SGD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+9202.T,ANA Holdings,^N225,Nikkei 225,Japan listing market,Tokyo Stock Exchange,Japan,Japan,JPY,JPY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+9201.T,Japan Airlines,^N225,Nikkei 225,Japan listing market,Tokyo Stock Exchange,Japan,Japan,JPY,JPY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+003490.KS,Korean Air,^KS11,KOSPI,Korea listing market,Korea Exchange,South Korea,South Korea,KRW,KRW,True,Trading-market benchmark from Phase 5C-Fix metadata.
+020560.KS,Asiana Airlines,^KS11,KOSPI,Korea listing market,Korea Exchange,South Korea,South Korea,KRW,KRW,True,Trading-market benchmark from Phase 5C-Fix metadata.
+THAI.BK,Thai Airways,^SET.BK,SET Index,Thailand listing market,Stock Exchange of Thailand,Thailand,Thailand,THB,THB,True,Trading-market benchmark from Phase 5C-Fix metadata.
+0293.HK,Cathay Pacific,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,Hong Kong,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+QAN.AX,Qantas Airways,^AXJO,S&P/ASX 200,Australia listing market,Australian Securities Exchange,Australia,Australia,AUD,AUD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+DAL,Delta Air Lines,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+UAL,United Airlines,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AAL,American Airlines Group,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+LUV,Southwest Airlines,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+LHA.DE,Lufthansa,^STOXX,STOXX Europe 600,European major exchange,XETRA,Germany,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AF.PA,Air France-KLM,^STOXX,STOXX Europe 600,European major exchange,Euronext Paris,France,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+IAG.L,International Airlines Group,^FTSE,FTSE 100,"Home-market index (LSE/Borsa Istanbul), Phase 6 update",London Stock Exchange,United Kingdom,United Kingdom,GBp,GBP,True,Re-paired from ^STOXX to home index to remove currency mismatch; benchmark downloaded 2012-2016 from Yahoo Finance chart API on 2026-06-06T14:13:21.787265+00:00
+RYAAY,Ryanair,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ ADR,Ireland,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+EZJ.L,easyJet,^FTSE,FTSE 100,"Home-market index (LSE/Borsa Istanbul), Phase 6 update",London Stock Exchange,United Kingdom,United Kingdom,GBp,GBP,True,Re-paired from ^STOXX to home index to remove currency mismatch; benchmark downloaded 2012-2016 from Yahoo Finance chart API on 2026-06-06T14:13:21.787265+00:00
+THYAO.IS,Turkish Airlines,XU100.IS,BIST 100,"Home-market index (LSE/Borsa Istanbul), Phase 6 update",Borsa Istanbul,Turkey,Turkey,TRY,TRY,True,Re-paired from ^STOXX to home index to remove currency mismatch; benchmark downloaded 2012-2016 from Yahoo Finance chart API on 2026-06-06T14:13:21.787265+00:00
+600009.SS,Shanghai International Airport,000001.SS,Shanghai Composite Index,China A-share trading market,Shanghai Stock Exchange,China,China,CNY,CNY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+600004.SS,Guangzhou Baiyun International Airport,000001.SS,Shanghai Composite Index,China A-share trading market,Shanghai Stock Exchange,China,China,CNY,CNY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+0694.HK,Beijing Capital International Airport,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AIRPORT.KL,Malaysia Airports Holdings,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+FRA.DE,Fraport,^STOXX,STOXX Europe 600,European major exchange,XETRA,Germany,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+ADP.PA,Groupe ADP,^STOXX,STOXX Europe 600,European major exchange,Euronext Paris,France,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+FHZN.SW,Flughafen Zurich,^SSMI,Swiss Market Index,Switzerland listing market,SIX Swiss Exchange,Switzerland,Switzerland,CHF,CHF,True,Trading-market benchmark from Phase 5C-Fix metadata.
+TAVHL.IS,TAV Airports,XU100.IS,BIST 100,"Home-market index (LSE/Borsa Istanbul), Phase 6 update",Borsa Istanbul,Turkey,Turkey,TRY,TRY,True,Re-paired from ^STOXX to home index to remove currency mismatch; benchmark downloaded 2012-2016 from Yahoo Finance chart API on 2026-06-06T14:13:21.787265+00:00
+TCOM,Trip.com Ctrip,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ ADR,China,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+EXPE,Expedia,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+BKNG,Booking Holdings Priceline,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+MAR,Marriott,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+IHG,InterContinental Hotels Group,^GSPC,S&P 500,US exchange or ADR trading market,NYSE ADR,United Kingdom,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+0069.HK,Shangri-La Asia,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,Hong Kong,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+4715.KL,Genting Malaysia,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+600754.SS,Jin Jiang Hotels,000001.SS,Shanghai Composite Index,China A-share trading market,Shanghai Stock Exchange,China,China,CNY,CNY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+2318.HK,Ping An Insurance,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+2601.HK,China Pacific Insurance,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+1339.HK,PICC,^HSI,Hang Seng Index,Hong Kong listing market,Hong Kong Stock Exchange,China,Hong Kong,HKD,HKD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+1023.KL,CIMB Group,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+1155.KL,Maybank,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+1295.KL,Public Bank,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+5819.KL,Hong Leong Bank,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia listing market,Bursa Malaysia,Malaysia,Malaysia,MYR,MYR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+JBLU,JetBlue Airways,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+ALK,Alaska Air Group,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+ALGT,Allegiant Travel,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+SKYW,SkyWest,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+CPA,Copa Holdings,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,Panama/United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AC.TO,Air Canada,^GSPTSE,S&P/TSX Composite,Canada listing market,Toronto Stock Exchange,Canada,Canada,CAD,CAD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+NAS.OL,Norwegian Air Shuttle,OSEBX.OL,Oslo Benchmark Index,Norway listing market,Oslo Bors,Norway,Norway,NOK,NOK,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AIR.NZ,Air New Zealand,^NZ50,S&P/NZX 50,New Zealand listing market,NZX,New Zealand,New Zealand,NZD,NZD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AIA.NZ,Auckland International Airport,^NZ50,S&P/NZX 50,New Zealand listing market,NZX,New Zealand,New Zealand,NZD,NZD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+ASR,Grupo Aeroportuario del Sureste,^GSPC,S&P 500,US exchange or ADR trading market,NYSE ADR,Mexico/United States ADR,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+PAC,Grupo Aeroportuario del Pacifico,^GSPC,S&P 500,US exchange or ADR trading market,NYSE ADR,Mexico/United States ADR,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+OMAB,Grupo Aeroportuario del Centro Norte,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ ADR,Mexico/United States ADR,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+FLU.VI,Flughafen Wien,^ATX,Austrian Traded Index,Austria listing market,Vienna Stock Exchange,Austria,Austria,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+H,Hyatt Hotels,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+CHH,Choice Hotels,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AC.PA,Accor,^STOXX,STOXX Europe 600,European major exchange,Euronext Paris,France,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+MEL.MC,Melia Hotels International,^STOXX,STOXX Europe 600,European major exchange,Bolsa de Madrid,Spain,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+TUI1.DE,TUI,^STOXX,STOXX Europe 600,European major exchange,XETRA,Germany/United Kingdom,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+FLT.AX,Flight Centre Travel Group,^AXJO,S&P/ASX 200,Australia listing market,Australian Securities Exchange,Australia,Australia,AUD,AUD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+WEB.AX,Webjet,^AXJO,S&P/ASX 200,Australia listing market,Australian Securities Exchange,Australia,Australia,AUD,AUD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+TZOO,Travelzoo,^GSPC,S&P 500,US exchange or ADR trading market,NASDAQ,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+QBE.AX,QBE Insurance,^AXJO,S&P/ASX 200,Australia listing market,Australian Securities Exchange,Australia,Australia,AUD,AUD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+8766.T,Tokio Marine Holdings,^N225,Nikkei 225,Japan listing market,Tokyo Stock Exchange,Japan,Japan,JPY,JPY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+8725.T,MS&AD Insurance Group,^N225,Nikkei 225,Japan listing market,Tokyo Stock Exchange,Japan,Japan,JPY,JPY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+8630.T,Sompo Holdings,^N225,Nikkei 225,Japan listing market,Tokyo Stock Exchange,Japan,Japan,JPY,JPY,True,Trading-market benchmark from Phase 5C-Fix metadata.
+AIG,AIG,^GSPC,S&P 500,US exchange or ADR trading market,NYSE,United States,United States,USD,USD,True,Trading-market benchmark from Phase 5C-Fix metadata.
+CS.PA,AXA,^STOXX,STOXX Europe 600,European major exchange,Euronext Paris,France,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+ALV.DE,Allianz,^STOXX,STOXX Europe 600,European major exchange,XETRA,Germany,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
+SREN.SW,Swiss Re,^SSMI,Swiss Market Index,Switzerland listing market,SIX Swiss Exchange,Switzerland,Switzerland,CHF,CHF,True,Trading-market benchmark from Phase 5C-Fix metadata.
+MUV2.DE,Munich Re,^STOXX,STOXX Europe 600,European major exchange,XETRA,Germany,Europe,EUR,EUR,True,Trading-market benchmark from Phase 5C-Fix metadata.
