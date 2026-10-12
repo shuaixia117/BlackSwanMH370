@@ -1,6 +1,6 @@
 # The Impact of the MH370 Disappearance on Global Capital Markets
 
-[中文版](README_cn.md)
+[中文版](README_cn.md) · [Methods and models](METHODS_en.md)
 
 ## 1. Research Task
 
@@ -28,6 +28,8 @@ The sample runs from 2012-01-03 to 2016-12-30. The MH17 crash of 2014-07-17, a s
 - **Price source**: Yahoo Finance adjusted closes.
 
 ## 3. Framework and Methods
+
+Formulas, parameters and test details for every model are given in [METHODS_en.md](METHODS_en.md).
 
 | Chapter | Content |
 |---|---|
@@ -99,9 +101,10 @@ Markets treated MH370 as a local, moderate shock. Prices fell by about 2.4%, but
 
 ```
 BlackSwanMH370/
-├── README.md                     language selector
 ├── README_cn.md                  project description (Chinese)
 ├── README_en.md                  project description (English)
+├── METHODS_cn.md                 methods and models (Chinese)
+├── METHODS_en.md                 methods and models (English)
 ├── requirements.txt
 ├── file_inventory_cn.csv         inventory of all files (Chinese)
 ├── file_inventory_en.csv         inventory of all files (English)
@@ -131,8 +134,7 @@ BlackSwanMH370/
 │   ├── tables/                   35 result tables
 │   ├── figures/                  6 figures
 │   └── logs/run_manifest.json    environment and timings
-├── tests/                        48 unit tests
-└── docs/literature/              reference paper (_en) and Chinese translation (_cn)
+└── tests/                        48 unit tests
 ```
 
 ## 6. How to Run

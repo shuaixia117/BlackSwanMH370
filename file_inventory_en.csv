@@ -1,6 +1,7 @@
 path,category,description
 .gitignore,root,Git ignore rules
-README.md,root,Language selector linking to the Chinese and English READMEs
+METHODS_cn.md,root,Methods and models (Chinese)
+METHODS_en.md,root,Methods and models (English)
 README_cn.md,root,Project description (Chinese)
 README_en.md,root,Project description (English)
 data/factors/french/Asia_Pacific_FF3_daily_decimal.csv,data,Kenneth French Asia Pacific FF3 daily factors (decimal)
@@ -145,8 +146,6 @@ data/prices/companies/TUI1_DE_TUI.csv,data,"Daily prices: TUI (TUI1.DE, Germany/
 data/prices/companies/TZOO_Travelzoo.csv,data,"Daily prices: Travelzoo (TZOO, United States, tourism_hotel)"
 data/prices/companies/UAL_United_Airlines.csv,data,"Daily prices: United Airlines (UAL, United States, airline)"
 data/prices/companies/WEB_AX_Webjet.csv,data,"Daily prices: Webjet (WEB.AX, Australia, tourism_hotel)"
-docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_cn.pdf,docs,Chinese translation of the reference paper
-docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_en.pdf,docs,"Reference paper (Anghel et al., 2024), original English"
 file_inventory_cn.csv,root,Inventory of all files (Chinese)
 file_inventory_en.csv,root,Inventory of all files (English)
 mh370_study/__init__.py,code,Package description and module index

@@ -1,6 +1,6 @@
 # MH370 事件对全球资本市场的冲击
 
-[English version](README_en.md)
+[English version](README_en.md) · [方法与模型说明](METHODS_cn.md)
 
 ## 1. 研究任务
 
@@ -28,6 +28,8 @@
 - **价格来源**：Yahoo Finance 复权收盘价。
 
 ## 3. 研究框架与方法
+
+各模型的公式、参数与检验细节见 [METHODS_cn.md](METHODS_cn.md)。
 
 | 章节 | 内容 |
 |---|---|
@@ -99,9 +101,10 @@
 
 ```
 BlackSwanMH370/
-├── README.md                     语言入口
 ├── README_cn.md                  项目说明（中文）
 ├── README_en.md                  项目说明（英文）
+├── METHODS_cn.md                 方法与模型说明（中文）
+├── METHODS_en.md                 方法与模型说明（英文）
 ├── requirements.txt
 ├── file_inventory_cn.csv         全部文件清单（中文）
 ├── file_inventory_en.csv         全部文件清单（英文）
@@ -131,8 +134,7 @@ BlackSwanMH370/
 │   ├── tables/                   35 张结果表
 │   ├── figures/                  6 幅图
 │   └── logs/run_manifest.json    运行环境与耗时
-├── tests/                        48 个单元测试
-└── docs/literature/              外文文献原文（_en）与中文译文（_cn）
+└── tests/                        48 个单元测试
 ```
 
 ## 6. 运行

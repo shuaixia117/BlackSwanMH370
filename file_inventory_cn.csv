@@ -1,6 +1,7 @@
 ﻿路径,类别,说明
 .gitignore,根目录,Git 忽略规则
-README.md,根目录,语言入口（链接到中文与英文说明）
+METHODS_cn.md,根目录,方法与模型说明（中文）
+METHODS_en.md,根目录,方法与模型说明（英文）
 README_cn.md,根目录,项目说明（中文）
 README_en.md,根目录,项目说明（英文）
 data/factors/french/Asia_Pacific_FF3_daily_decimal.csv,数据,Kenneth French Asia Pacific 区域 FF3 日度因子（小数）
@@ -145,8 +146,6 @@ data/prices/companies/TUI1_DE_TUI.csv,数据,公司日度价格：TUI（TUI1.DE�
 data/prices/companies/TZOO_Travelzoo.csv,数据,公司日度价格：Travelzoo（TZOO，United States，酒店旅游）
 data/prices/companies/UAL_United_Airlines.csv,数据,公司日度价格：United Airlines（UAL，United States，航空）
 data/prices/companies/WEB_AX_Webjet.csv,数据,公司日度价格：Webjet（WEB.AX，Australia，酒店旅游）
-docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_cn.pdf,文档,外文参考文献中文译文
-docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_en.pdf,文档,外文参考文献原文（Anghel 等，2024）
 file_inventory_cn.csv,根目录,全部文件清单（中文）
 file_inventory_en.csv,根目录,全部文件清单（英文）
 mh370_study/__init__.py,代码,包说明与模块索引
