@@ -262,8 +262,15 @@ class Study:
         self.step("作图", "Figures", t0)
 
         # ---- 结果表索引与运行记录 / table index and run manifest
-        index = [{"file": f"tables/{n}.csv", "chapter": TABLE_INDEX.get(n, ("", "", ""))[0], "说明": TABLE_INDEX.get(n, ("", "", ""))[1], "description": TABLE_INDEX.get(n, ("", "", ""))[2], "rows": len(df)} for n, df in self.tables.items()]
-        pd.DataFrame(index).sort_values("file").to_csv(self.out / "results_index.csv", index=False, encoding="utf-8-sig")
+        # 中文与英文索引分别保存 / Chinese and English indices are saved as separate files
+        cn, en = [], []
+        for n, df in self.tables.items():
+            chap, zh, eng = TABLE_INDEX.get(n, ("", "", ""))
+            chap_cn, _, chap_en = chap.partition(" ")
+            cn.append({"文件": f"tables/{n}.csv", "章节": chap_cn, "说明": zh, "行数": len(df)})
+            en.append({"file": f"tables/{n}.csv", "chapter": chap_en or chap_cn, "description": eng, "rows": len(df)})
+        pd.DataFrame(cn).sort_values("文件").to_csv(self.out / "results_index_cn.csv", index=False, encoding="utf-8-sig")
+        pd.DataFrame(en).sort_values("file").to_csv(self.out / "results_index_en.csv", index=False, encoding="utf-8")
         manifest = {
             "python": sys.version, "platform": platform.platform(),
             "packages": {p: version(p) for p in ("numpy", "pandas", "scipy", "statsmodels", "arch", "matplotlib")},

@@ -1,0 +1,212 @@
+﻿路径,类别,说明
+.gitignore,根目录,Git 忽略规则
+README.md,根目录,语言入口（链接到中文与英文说明）
+README_cn.md,根目录,项目说明（中文）
+README_en.md,根目录,项目说明（英文）
+data/factors/french/Asia_Pacific_FF3_daily_decimal.csv,数据,Kenneth French Asia Pacific 区域 FF3 日度因子（小数）
+data/factors/french/Asia_Pacific_FF5_daily_decimal.csv,数据,Kenneth French Asia Pacific 区域 FF5 日度因子（小数）
+data/factors/french/Developed_FF3_daily_decimal.csv,数据,Kenneth French Developed 区域 FF3 日度因子（小数）
+data/factors/french/Developed_FF5_daily_decimal.csv,数据,Kenneth French Developed 区域 FF5 日度因子（小数）
+data/factors/french/Europe_FF3_daily_decimal.csv,数据,Kenneth French Europe 区域 FF3 日度因子（小数）
+data/factors/french/Europe_FF5_daily_decimal.csv,数据,Kenneth French Europe 区域 FF5 日度因子（小数）
+data/factors/french/Japan_FF3_daily_decimal.csv,数据,Kenneth French Japan 区域 FF3 日度因子（小数）
+data/factors/french/Japan_FF5_daily_decimal.csv,数据,Kenneth French Japan 区域 FF5 日度因子（小数）
+data/factors/french/North_America_FF3_daily_decimal.csv,数据,Kenneth French North America 区域 FF3 日度因子（小数）
+data/factors/french/North_America_FF5_daily_decimal.csv,数据,Kenneth French North America 区域 FF5 日度因子（小数）
+data/factors/jkp/JKP_chn_FF3_daily_decimal.csv,数据,JKP 中国 China FF3 合成因子总表（含 RF）
+data/factors/jkp/JKP_chn_FF5_daily_decimal.csv,数据,JKP 中国 China FF5 合成因子总表（含 RF）
+data/factors/jkp/JKP_chn_investment_daily_vw_cap.csv,数据,JKP 中国 China 投资因子（市值加权）
+data/factors/jkp/JKP_chn_mkt_daily_vw_cap.csv,数据,JKP 中国 China 市场因子（市值加权）
+data/factors/jkp/JKP_chn_profitability_daily_vw_cap.csv,数据,JKP 中国 China 盈利因子（市值加权）
+data/factors/jkp/JKP_chn_size_daily_vw_cap.csv,数据,JKP 中国 China 规模因子（市值加权）
+data/factors/jkp/JKP_chn_value_daily_vw_cap.csv,数据,JKP 中国 China 价值因子（市值加权）
+data/factors/jkp/JKP_kor_FF3_daily_decimal.csv,数据,JKP 韩国 South Korea FF3 合成因子总表（含 RF）
+data/factors/jkp/JKP_kor_FF5_daily_decimal.csv,数据,JKP 韩国 South Korea FF5 合成因子总表（含 RF）
+data/factors/jkp/JKP_kor_investment_daily_vw_cap.csv,数据,JKP 韩国 South Korea 投资因子（市值加权）
+data/factors/jkp/JKP_kor_mkt_daily_vw_cap.csv,数据,JKP 韩国 South Korea 市场因子（市值加权）
+data/factors/jkp/JKP_kor_profitability_daily_vw_cap.csv,数据,JKP 韩国 South Korea 盈利因子（市值加权）
+data/factors/jkp/JKP_kor_size_daily_vw_cap.csv,数据,JKP 韩国 South Korea 规模因子（市值加权）
+data/factors/jkp/JKP_kor_value_daily_vw_cap.csv,数据,JKP 韩国 South Korea 价值因子（市值加权）
+data/factors/jkp/JKP_mys_FF3_daily_decimal.csv,数据,JKP 马来西亚 Malaysia FF3 合成因子总表（含 RF）
+data/factors/jkp/JKP_mys_FF5_daily_decimal.csv,数据,JKP 马来西亚 Malaysia FF5 合成因子总表（含 RF）
+data/factors/jkp/JKP_mys_investment_daily_vw_cap.csv,数据,JKP 马来西亚 Malaysia 投资因子（市值加权）
+data/factors/jkp/JKP_mys_mkt_daily_vw_cap.csv,数据,JKP 马来西亚 Malaysia 市场因子（市值加权）
+data/factors/jkp/JKP_mys_profitability_daily_vw_cap.csv,数据,JKP 马来西亚 Malaysia 盈利因子（市值加权）
+data/factors/jkp/JKP_mys_size_daily_vw_cap.csv,数据,JKP 马来西亚 Malaysia 规模因子（市值加权）
+data/factors/jkp/JKP_mys_value_daily_vw_cap.csv,数据,JKP 马来西亚 Malaysia 价值因子（市值加权）
+data/factors/jkp/JKP_tha_FF3_daily_decimal.csv,数据,JKP 泰国 Thailand FF3 合成因子总表（含 RF）
+data/factors/jkp/JKP_tha_FF5_daily_decimal.csv,数据,JKP 泰国 Thailand FF5 合成因子总表（含 RF）
+data/factors/jkp/JKP_tha_investment_daily_vw_cap.csv,数据,JKP 泰国 Thailand 投资因子（市值加权）
+data/factors/jkp/JKP_tha_mkt_daily_vw_cap.csv,数据,JKP 泰国 Thailand 市场因子（市值加权）
+data/factors/jkp/JKP_tha_profitability_daily_vw_cap.csv,数据,JKP 泰国 Thailand 盈利因子（市值加权）
+data/factors/jkp/JKP_tha_size_daily_vw_cap.csv,数据,JKP 泰国 Thailand 规模因子（市值加权）
+data/factors/jkp/JKP_tha_value_daily_vw_cap.csv,数据,JKP 泰国 Thailand 价值因子（市值加权）
+data/factors/jkp/JKP_tur_FF3_daily_decimal.csv,数据,JKP 土耳其 Turkey FF3 合成因子总表（含 RF）
+data/factors/jkp/JKP_tur_FF5_daily_decimal.csv,数据,JKP 土耳其 Turkey FF5 合成因子总表（含 RF）
+data/factors/jkp/JKP_tur_investment_daily_vw_cap.csv,数据,JKP 土耳其 Turkey 投资因子（市值加权）
+data/factors/jkp/JKP_tur_mkt_daily_vw_cap.csv,数据,JKP 土耳其 Turkey 市场因子（市值加权）
+data/factors/jkp/JKP_tur_profitability_daily_vw_cap.csv,数据,JKP 土耳其 Turkey 盈利因子（市值加权）
+data/factors/jkp/JKP_tur_size_daily_vw_cap.csv,数据,JKP 土耳其 Turkey 规模因子（市值加权）
+data/factors/jkp/JKP_tur_value_daily_vw_cap.csv,数据,JKP 土耳其 Turkey 价值因子（市值加权）
+data/fx/usd_per_local_currency.csv,数据,美元兑各本币日度汇率
+data/metadata/benchmark_sample.csv,数据,本地市场基准清单（17 个）
+data/metadata/company_benchmark_pairing.csv,数据,公司—本地基准配对表
+data/metadata/company_sample.csv,数据,样本公司清单（75 家，含行业、规模、暴露分组）——总表
+data/metadata/factor_region_map.csv,数据,公司因子区域映射
+data/prices/benchmarks/000001_SS_Shanghai_Composite_Index.csv,数据,基准指数日度价格：SS Shanghai Composite Index
+data/prices/benchmarks/ATX_Austrian_Traded_Index.csv,数据,基准指数日度价格：Austrian Traded Index
+data/prices/benchmarks/AXJO_SP_ASX_200.csv,数据,基准指数日度价格：SP ASX 200
+data/prices/benchmarks/FTSE_FTSE_100.csv,数据,基准指数日度价格：FTSE 100
+data/prices/benchmarks/GSPC_SP_500.csv,数据,基准指数日度价格：SP 500
+data/prices/benchmarks/GSPTSE_SP_TSX_Composite.csv,数据,基准指数日度价格：SP TSX Composite
+data/prices/benchmarks/HSI_Hang_Seng_Index.csv,数据,基准指数日度价格：Hang Seng Index
+data/prices/benchmarks/KLSE_FTSE_Bursa_Malaysia_KLCI.csv,数据,基准指数日度价格：FTSE Bursa Malaysia KLCI
+data/prices/benchmarks/KS11_KOSPI.csv,数据,基准指数日度价格：KOSPI
+data/prices/benchmarks/N225_Nikkei_225.csv,数据,基准指数日度价格：Nikkei 225
+data/prices/benchmarks/NZ50_SP_NZX_50.csv,数据,基准指数日度价格：SP NZX 50
+data/prices/benchmarks/OSEBX_OL_Oslo_Benchmark_Index.csv,数据,基准指数日度价格：OL Oslo Benchmark Index
+data/prices/benchmarks/SET_BK_SET_Index.csv,数据,基准指数日度价格：BK SET Index
+data/prices/benchmarks/SSMI_Swiss_Market_Index.csv,数据,基准指数日度价格：Swiss Market Index
+data/prices/benchmarks/STI_Straits_Times_Index.csv,数据,基准指数日度价格：Straits Times Index
+data/prices/benchmarks/STOXX_STOXX_Europe_600.csv,数据,基准指数日度价格：STOXX Europe 600
+data/prices/benchmarks/XU100_BIST_100.csv,数据,基准指数日度价格：BIST 100
+data/prices/companies/003490_KS_Korean_Air.csv,数据,公司日度价格：Korean Air（003490.KS，South Korea，航空）
+data/prices/companies/0069_HK_Shangri-La_Asia.csv,数据,公司日度价格：Shangri-La Asia（0069.HK，Hong Kong，酒店旅游）
+data/prices/companies/020560_KS_Asiana_Airlines.csv,数据,公司日度价格：Asiana Airlines（020560.KS，South Korea，航空）
+data/prices/companies/0293_HK_Cathay_Pacific.csv,数据,公司日度价格：Cathay Pacific（0293.HK，Hong Kong，航空）
+data/prices/companies/0670_HK_China_Eastern_Airlines.csv,数据,公司日度价格：China Eastern Airlines（0670.HK，China，航空）
+data/prices/companies/0694_HK_Beijing_Capital_International_Airport.csv,数据,公司日度价格：Beijing Capital International Airport（0694.HK，China，机场）
+data/prices/companies/0753_HK_Air_China.csv,数据,公司日度价格：Air China（0753.HK，China，航空）
+data/prices/companies/1023_KL_CIMB_Group.csv,数据,公司日度价格：CIMB Group（1023.KL，Malaysia，保险金融）
+data/prices/companies/1055_HK_China_Southern_Airlines.csv,数据,公司日度价格：China Southern Airlines（1055.HK，China，航空）
+data/prices/companies/1155_KL_Maybank.csv,数据,公司日度价格：Maybank（1155.KL，Malaysia，保险金融）
+data/prices/companies/1295_KL_Public_Bank.csv,数据,公司日度价格：Public Bank（1295.KL，Malaysia，保险金融）
+data/prices/companies/1339_HK_PICC.csv,数据,公司日度价格：PICC（1339.HK，China，保险金融）
+data/prices/companies/2318_HK_Ping_An_Insurance.csv,数据,公司日度价格：Ping An Insurance（2318.HK，China，保险金融）
+data/prices/companies/2601_HK_China_Pacific_Insurance.csv,数据,公司日度价格：China Pacific Insurance（2601.HK，China，保险金融）
+data/prices/companies/4715_KL_Genting_Malaysia.csv,数据,公司日度价格：Genting Malaysia（4715.KL，Malaysia，酒店旅游）
+data/prices/companies/5099_KL_AirAsia_Capital_A.csv,数据,公司日度价格：AirAsia Capital A（5099.KL，Malaysia，航空）
+data/prices/companies/5819_KL_Hong_Leong_Bank.csv,数据,公司日度价格：Hong Leong Bank（5819.KL，Malaysia，保险金融）
+data/prices/companies/600004_SS_Guangzhou_Baiyun_International_Airport.csv,数据,公司日度价格：Guangzhou Baiyun International Airport（600004.SS，China，机场）
+data/prices/companies/600009_SS_Shanghai_International_Airport.csv,数据,公司日度价格：Shanghai International Airport（600009.SS，China，机场）
+data/prices/companies/600754_SS_Jin_Jiang_Hotels.csv,数据,公司日度价格：Jin Jiang Hotels（600754.SS，China，酒店旅游）
+data/prices/companies/8630_T_Sompo_Holdings.csv,数据,公司日度价格：Sompo Holdings（8630.T，Japan，保险金融）
+data/prices/companies/8725_T_MS_AD_Insurance_Group.csv,数据,公司日度价格：MS&AD Insurance Group（8725.T，Japan，保险金融）
+data/prices/companies/8766_T_Tokio_Marine_Holdings.csv,数据,公司日度价格：Tokio Marine Holdings（8766.T，Japan，保险金融）
+data/prices/companies/9201_T_Japan_Airlines.csv,数据,公司日度价格：Japan Airlines（9201.T，Japan，航空）
+data/prices/companies/9202_T_ANA_Holdings.csv,数据,公司日度价格：ANA Holdings（9202.T，Japan，航空）
+data/prices/companies/AAL_American_Airlines_Group.csv,数据,公司日度价格：American Airlines Group（AAL，United States，航空）
+data/prices/companies/AC_PA_Accor.csv,数据,公司日度价格：Accor（AC.PA，France，酒店旅游）
+data/prices/companies/AC_TO_Air_Canada.csv,数据,公司日度价格：Air Canada（AC.TO，Canada，航空）
+data/prices/companies/ADP_PA_Groupe_ADP.csv,数据,公司日度价格：Groupe ADP（ADP.PA，France，机场）
+data/prices/companies/AF_PA_Air_France-KLM.csv,数据,公司日度价格：Air France-KLM（AF.PA，France，航空）
+data/prices/companies/AIA_NZ_Auckland_International_Airport.csv,数据,公司日度价格：Auckland International Airport（AIA.NZ，New Zealand，机场）
+data/prices/companies/AIG_AIG.csv,数据,公司日度价格：AIG（AIG，United States，保险金融）
+data/prices/companies/AIRPORT_KL_Malaysia_Airports_Holdings.csv,数据,公司日度价格：Malaysia Airports Holdings（AIRPORT.KL，Malaysia，机场）
+data/prices/companies/AIR_NZ_Air_New_Zealand.csv,数据,公司日度价格：Air New Zealand（AIR.NZ，New Zealand，航空）
+data/prices/companies/ALGT_Allegiant_Travel.csv,数据,公司日度价格：Allegiant Travel（ALGT，United States，航空）
+data/prices/companies/ALK_Alaska_Air_Group.csv,数据,公司日度价格：Alaska Air Group（ALK，United States，航空）
+data/prices/companies/ALV_DE_Allianz.csv,数据,公司日度价格：Allianz（ALV.DE，Germany，保险金融）
+data/prices/companies/ASR_Grupo_Aeroportuario_del_Sureste.csv,数据,公司日度价格：Grupo Aeroportuario del Sureste（ASR，Mexico/United States ADR，机场）
+data/prices/companies/BKNG_Booking_Holdings_Priceline.csv,数据,公司日度价格：Booking Holdings Priceline（BKNG，United States，酒店旅游）
+data/prices/companies/C6L_SI_Singapore_Airlines.csv,数据,公司日度价格：Singapore Airlines（C6L.SI，Singapore，航空）
+data/prices/companies/CHH_Choice_Hotels.csv,数据,公司日度价格：Choice Hotels（CHH，United States，酒店旅游）
+data/prices/companies/CPA_Copa_Holdings.csv,数据,公司日度价格：Copa Holdings（CPA，Panama/United States，航空）
+data/prices/companies/CS_PA_AXA.csv,数据,公司日度价格：AXA（CS.PA，France，保险金融）
+data/prices/companies/DAL_Delta_Air_Lines.csv,数据,公司日度价格：Delta Air Lines（DAL，United States，航空）
+data/prices/companies/EXPE_Expedia.csv,数据,公司日度价格：Expedia（EXPE，United States，酒店旅游）
+data/prices/companies/EZJ_L_easyJet.csv,数据,公司日度价格：easyJet（EZJ.L，United Kingdom，航空）
+data/prices/companies/FHZN_SW_Flughafen_Zurich.csv,数据,公司日度价格：Flughafen Zurich（FHZN.SW，Switzerland，机场）
+data/prices/companies/FLT_AX_Flight_Centre_Travel_Group.csv,数据,公司日度价格：Flight Centre Travel Group（FLT.AX，Australia，酒店旅游）
+data/prices/companies/FLU_VI_Flughafen_Wien.csv,数据,公司日度价格：Flughafen Wien（FLU.VI，Austria，机场）
+data/prices/companies/FRA_DE_Fraport.csv,数据,公司日度价格：Fraport（FRA.DE，Germany，机场）
+data/prices/companies/H_Hyatt_Hotels.csv,数据,公司日度价格：Hyatt Hotels（H，United States，酒店旅游）
+data/prices/companies/IAG_L_International_Airlines_Group.csv,数据,公司日度价格：International Airlines Group（IAG.L，United Kingdom，航空）
+data/prices/companies/IHG_InterContinental_Hotels_Group.csv,数据,公司日度价格：InterContinental Hotels Group（IHG，United Kingdom，酒店旅游）
+data/prices/companies/JBLU_JetBlue_Airways.csv,数据,公司日度价格：JetBlue Airways（JBLU，United States，航空）
+data/prices/companies/LHA_DE_Lufthansa.csv,数据,公司日度价格：Lufthansa（LHA.DE，Germany，航空）
+data/prices/companies/LUV_Southwest_Airlines.csv,数据,公司日度价格：Southwest Airlines（LUV，United States，航空）
+data/prices/companies/MAR_Marriott.csv,数据,公司日度价格：Marriott（MAR，United States，酒店旅游）
+data/prices/companies/MEL_MC_Melia_Hotels_International.csv,数据,公司日度价格：Melia Hotels International（MEL.MC，Spain，酒店旅游）
+data/prices/companies/MUV2_DE_Munich_Re.csv,数据,公司日度价格：Munich Re（MUV2.DE，Germany，保险金融）
+data/prices/companies/NAS_OL_Norwegian_Air_Shuttle.csv,数据,公司日度价格：Norwegian Air Shuttle（NAS.OL，Norway，航空）
+data/prices/companies/OMAB_Grupo_Aeroportuario_del_Centro_Norte.csv,数据,公司日度价格：Grupo Aeroportuario del Centro Norte（OMAB，Mexico/United States ADR，机场）
+data/prices/companies/PAC_Grupo_Aeroportuario_del_Pacifico.csv,数据,公司日度价格：Grupo Aeroportuario del Pacifico（PAC，Mexico/United States ADR，机场）
+data/prices/companies/QAN_AX_Qantas_Airways.csv,数据,公司日度价格：Qantas Airways（QAN.AX，Australia，航空）
+data/prices/companies/QBE_AX_QBE_Insurance.csv,数据,公司日度价格：QBE Insurance（QBE.AX，Australia，保险金融）
+data/prices/companies/RYAAY_Ryanair.csv,数据,公司日度价格：Ryanair（RYAAY，Ireland，航空）
+data/prices/companies/SKYW_SkyWest.csv,数据,公司日度价格：SkyWest（SKYW，United States，航空）
+data/prices/companies/SREN_SW_Swiss_Re.csv,数据,公司日度价格：Swiss Re（SREN.SW，Switzerland，保险金融）
+data/prices/companies/TAVHL_IS_TAV_Airports.csv,数据,公司日度价格：TAV Airports（TAVHL.IS，Turkey，机场）
+data/prices/companies/TCOM_Trip_com_Ctrip.csv,数据,公司日度价格：Trip.com Ctrip（TCOM，China，酒店旅游）
+data/prices/companies/THAI_BK_Thai_Airways.csv,数据,公司日度价格：Thai Airways（THAI.BK，Thailand，航空）
+data/prices/companies/THYAO_IS_Turkish_Airlines.csv,数据,公司日度价格：Turkish Airlines（THYAO.IS，Turkey，航空）
+data/prices/companies/TUI1_DE_TUI.csv,数据,公司日度价格：TUI（TUI1.DE，Germany/United Kingdom，酒店旅游）
+data/prices/companies/TZOO_Travelzoo.csv,数据,公司日度价格：Travelzoo（TZOO，United States，酒店旅游）
+data/prices/companies/UAL_United_Airlines.csv,数据,公司日度价格：United Airlines（UAL，United States，航空）
+data/prices/companies/WEB_AX_Webjet.csv,数据,公司日度价格：Webjet（WEB.AX，Australia，酒店旅游）
+docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_cn.pdf,文档,外文参考文献中文译文
+docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_en.pdf,文档,外文参考文献原文（Anghel 等，2024）
+file_inventory_cn.csv,根目录,全部文件清单（中文）
+file_inventory_en.csv,根目录,全部文件清单（英文）
+mh370_study/__init__.py,代码,包说明与模块索引
+mh370_study/config.py,代码,全局参数与数据路径
+mh370_study/contagion_tests.py,代码,第5章：DCC-GARCH 与 Forbes-Rigobon 传染检验
+mh370_study/data_alignment.py,代码,第3章：价格读取、交易日对齐、描述统计
+mh370_study/event_study.py,代码,第4、6章：事件研究、ADJ-BMP、机制回归、AVR、DiD
+mh370_study/factor_models.py,代码,第4章：FF3/FF5 多因子稳健性（表4-4）
+mh370_study/figures.py,代码,全部图形
+mh370_study/garch_var.py,代码,第7章：GARCH 分布选择与多水平 VaR 回测
+mh370_study/headline_summary.py,代码,第9章：主结果汇总（表9-1）
+mh370_study/power_mde.py,代码,第8章：功效与 MDE（表8-1）
+mh370_study/robustness.py,代码,稳健性检验（表4-3、5-3）
+mh370_study/run_all.py,代码,一键运行全部分析
+mh370_study/stats_utils.py,代码,公共统计函数
+requirements.txt,根目录,依赖包版本
+results/figures/figure3_1_data_coverage_heatmap.png,结果,图3-1 数据覆盖热力图
+results/figures/figure4_1_event_time_caar.png,结果,图4-1 事件时间 CAAR
+results/figures/figure5_1_core_pair_dcc_path.png,结果,图5-1 核心资产对 DCC 路径
+results/figures/figure7_1_garch_var_boundary.png,结果,图7-1 GARCH 样本外 VaR 边界
+results/figures/figure7_2_multilevel_var_coverage.png,结果,图7-2 多水平 VaR 覆盖率
+results/figures/figure8_1_power_mde_forest.png,结果,图8-1 MDE 森林图
+results/logs/run_manifest.json,结果,运行环境与耗时记录
+results/results_index_cn.csv,结果,结果表索引（中文）
+results/results_index_en.csv,结果,结果表索引（英文）
+results/tables/appendix_ff_caar_by_region.csv,结果,多因子 CAAR 分区域
+results/tables/ch4_estimation_window_std_residuals.csv,结果,估计窗标准化残差
+results/tables/ch4_ff_caar_all_windows.csv,结果,多因子模型全部窗口 CAAR
+results/tables/ch4_ff_factor_region_assignment.csv,结果,公司因子区域分配
+results/tables/ch4_ff_firm_level_car.csv,结果,多因子模型逐公司 CAR
+results/tables/ch4_ff_regression_diagnostics.csv,结果,多因子回归诊断（R²、系数）
+results/tables/ch4_ff_validation_checks.csv,结果,多因子运行检查
+results/tables/ch4_firm_level_ar_car.csv,结果,逐公司各窗口 CAR 与公司层面检验
+results/tables/ch5_fr_contagion_exceptions.csv,结果,FDR 后判定为传染的资产对
+results/tables/figure4_1_caar_by_exposure_group_data.csv,结果,图 4-1 数据：分暴露组 CAAR
+results/tables/figure4_1_event_time_caar_data.csv,结果,图 4-1 数据：事件时间 CAAR
+results/tables/table3_1_sample_coverage_diagnostics.csv,结果,样本覆盖诊断
+results/tables/table3_3_return_statistics_archlm.csv,结果,日收益描述统计与 ARCH-LM 检验
+results/tables/table4_1_aggregate_caar_tests.csv,结果,聚合 CAAR 与截面检验（Plain-CS / Patell / BMP / ADJ-BMP）
+results/tables/table4_2_exposure_gradient_hc3.csv,结果,暴露梯度 HC3 截面回归
+results/tables/table4_2_size_contrast_long_car.csv,结果,长窗 CAR 规模对照（置换检验）
+results/tables/table4_3_window_sensitivity.csv,结果,替代估计窗与扩展事件窗稳健性
+results/tables/table4_4_multifactor_robustness.csv,结果,FF3/FF5 多因子稳健性
+results/tables/table5_1_forbes_rigobon.csv,结果,Forbes-Rigobon 核心资产对检验（w40/w60）
+results/tables/table5_2_dcc_core_pairs.csv,结果,DCC-GARCH 核心资产对检验
+results/tables/table5_3_dcc_pre_event_targeting.csv,结果,DCC 事件前相关目标稳健性
+results/tables/table5_4_fr_mh17_cluster_window.csv,结果,跨越 MH17 的 90 日灾难簇窗口
+results/tables/table6_1_idiosyncratic_volatility_avr.csv,结果,特质波动率与放大比 AVR
+results/tables/table6_2_volatility_did.csv,结果,特质波动率 DiD 检验
+results/tables/table6_2_volatility_did_sample.csv,结果,DiD 样本明细
+results/tables/table6_3_avr_prewindow_robustness.csv,结果,AVR 前窗稳健性
+results/tables/table6_4_size_contrast_logavr60.csv,结果,logAVR60 规模对照
+results/tables/table6_4_size_interaction_logavr120.csv,结果,logAVR120 规模交互回归
+results/tables/table7_1_garch_convergence.csv,结果,GARCH 各分布收敛诊断
+results/tables/table7_1_garch_oos_refits.csv,结果,GARCH 样本外逐次重估
+results/tables/table7_1_garch_parameters.csv,结果,GARCH 参数与分布选择
+results/tables/table7_2_var_backtests.csv,结果,逐水平 VaR 覆盖回测
+results/tables/table7_3_multilevel_var.csv,结果,多水平 VaR 多项式检验（Nass 校正）
+results/tables/table8_1_power_mde.csv,结果,功效与最小可检测效应
+results/tables/table9_1_headline_results.csv,结果,全文主结果汇总
+tests/conftest.py,测试,pytest 配置
+tests/test_core_econometrics.py,测试,核心计量方法单元测试
+tests/test_methods.py,测试,方法实现测试

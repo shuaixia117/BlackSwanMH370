@@ -1,0 +1,36 @@
+﻿文件,章节,说明,行数
+tables/appendix_ff_caar_by_region.csv,附录,多因子 CAAR 分区域,80
+tables/ch4_estimation_window_std_residuals.csv,第4章,估计窗标准化残差,181
+tables/ch4_ff_caar_all_windows.csv,第4章,多因子模型全部窗口 CAAR,24
+tables/ch4_ff_factor_region_assignment.csv,第4章,公司因子区域分配,75
+tables/ch4_ff_firm_level_car.csv,第4章,多因子模型逐公司 CAR,1200
+tables/ch4_ff_regression_diagnostics.csv,第4章,多因子回归诊断（R²、系数）,150
+tables/ch4_ff_validation_checks.csv,第4章,多因子运行检查,7
+tables/ch4_firm_level_ar_car.csv,第4章,逐公司各窗口 CAR 与公司层面检验,600
+tables/ch5_fr_contagion_exceptions.csv,第5章,FDR 后判定为传染的资产对,0
+tables/figure4_1_caar_by_exposure_group_data.csv,第4章,图 4-1 数据：分暴露组 CAAR,262
+tables/figure4_1_event_time_caar_data.csv,第4章,图 4-1 数据：事件时间 CAAR,131
+tables/table3_1_sample_coverage_diagnostics.csv,第3章,样本覆盖诊断,75
+tables/table3_3_return_statistics_archlm.csv,第3章,日收益描述统计与 ARCH-LM 检验,75
+tables/table4_1_aggregate_caar_tests.csv,第4章,聚合 CAAR 与截面检验（Plain-CS / Patell / BMP / ADJ-BMP）,8
+tables/table4_2_exposure_gradient_hc3.csv,第4章,暴露梯度 HC3 截面回归,9
+tables/table4_2_size_contrast_long_car.csv,第4章,长窗 CAR 规模对照（置换检验）,3
+tables/table4_3_window_sensitivity.csv,第4章,替代估计窗与扩展事件窗稳健性,150
+tables/table4_4_multifactor_robustness.csv,第4章,FF3/FF5 多因子稳健性,12
+tables/table5_1_forbes_rigobon.csv,第5章,Forbes-Rigobon 核心资产对检验（w40/w60）,38
+tables/table5_2_dcc_core_pairs.csv,第5章,DCC-GARCH 核心资产对检验,57
+tables/table5_3_dcc_pre_event_targeting.csv,第5章,DCC 事件前相关目标稳健性,114
+tables/table5_4_fr_mh17_cluster_window.csv,第5章,跨越 MH17 的 90 日灾难簇窗口,19
+tables/table6_1_idiosyncratic_volatility_avr.csv,第6章,特质波动率与放大比 AVR,75
+tables/table6_2_volatility_did.csv,第6章,特质波动率 DiD 检验,2
+tables/table6_2_volatility_did_sample.csv,第6章,DiD 样本明细,75
+tables/table6_3_avr_prewindow_robustness.csv,第6章,AVR 前窗稳健性,4
+tables/table6_4_size_contrast_logavr60.csv,第6章,logAVR60 规模对照,3
+tables/table6_4_size_interaction_logavr120.csv,第6章,logAVR120 规模交互回归,10
+tables/table7_1_garch_convergence.csv,第7章,GARCH 各分布收敛诊断,225
+tables/table7_1_garch_oos_refits.csv,第7章,GARCH 样本外逐次重估,3569
+tables/table7_1_garch_parameters.csv,第7章,GARCH 参数与分布选择,75
+tables/table7_2_var_backtests.csv,第7章,逐水平 VaR 覆盖回测,300
+tables/table7_3_multilevel_var.csv,第7章,多水平 VaR 多项式检验（Nass 校正）,75
+tables/table8_1_power_mde.csv,第8章,功效与最小可检测效应,15
+tables/table9_1_headline_results.csv,第9章,全文主结果汇总,5

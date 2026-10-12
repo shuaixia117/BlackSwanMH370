@@ -1,0 +1,212 @@
+path,category,description
+.gitignore,root,Git ignore rules
+README.md,root,Language selector linking to the Chinese and English READMEs
+README_cn.md,root,Project description (Chinese)
+README_en.md,root,Project description (English)
+data/factors/french/Asia_Pacific_FF3_daily_decimal.csv,data,Kenneth French Asia Pacific FF3 daily factors (decimal)
+data/factors/french/Asia_Pacific_FF5_daily_decimal.csv,data,Kenneth French Asia Pacific FF5 daily factors (decimal)
+data/factors/french/Developed_FF3_daily_decimal.csv,data,Kenneth French Developed FF3 daily factors (decimal)
+data/factors/french/Developed_FF5_daily_decimal.csv,data,Kenneth French Developed FF5 daily factors (decimal)
+data/factors/french/Europe_FF3_daily_decimal.csv,data,Kenneth French Europe FF3 daily factors (decimal)
+data/factors/french/Europe_FF5_daily_decimal.csv,data,Kenneth French Europe FF5 daily factors (decimal)
+data/factors/french/Japan_FF3_daily_decimal.csv,data,Kenneth French Japan FF3 daily factors (decimal)
+data/factors/french/Japan_FF5_daily_decimal.csv,data,Kenneth French Japan FF5 daily factors (decimal)
+data/factors/french/North_America_FF3_daily_decimal.csv,data,Kenneth French North America FF3 daily factors (decimal)
+data/factors/french/North_America_FF5_daily_decimal.csv,data,Kenneth French North America FF5 daily factors (decimal)
+data/factors/jkp/JKP_chn_FF3_daily_decimal.csv,data,JKP China merged FF3 factors (with RF)
+data/factors/jkp/JKP_chn_FF5_daily_decimal.csv,data,JKP China merged FF5 factors (with RF)
+data/factors/jkp/JKP_chn_investment_daily_vw_cap.csv,data,JKP China investment factor (value-weighted)
+data/factors/jkp/JKP_chn_mkt_daily_vw_cap.csv,data,JKP China mkt factor (value-weighted)
+data/factors/jkp/JKP_chn_profitability_daily_vw_cap.csv,data,JKP China profitability factor (value-weighted)
+data/factors/jkp/JKP_chn_size_daily_vw_cap.csv,data,JKP China size factor (value-weighted)
+data/factors/jkp/JKP_chn_value_daily_vw_cap.csv,data,JKP China value factor (value-weighted)
+data/factors/jkp/JKP_kor_FF3_daily_decimal.csv,data,JKP South Korea merged FF3 factors (with RF)
+data/factors/jkp/JKP_kor_FF5_daily_decimal.csv,data,JKP South Korea merged FF5 factors (with RF)
+data/factors/jkp/JKP_kor_investment_daily_vw_cap.csv,data,JKP South Korea investment factor (value-weighted)
+data/factors/jkp/JKP_kor_mkt_daily_vw_cap.csv,data,JKP South Korea mkt factor (value-weighted)
+data/factors/jkp/JKP_kor_profitability_daily_vw_cap.csv,data,JKP South Korea profitability factor (value-weighted)
+data/factors/jkp/JKP_kor_size_daily_vw_cap.csv,data,JKP South Korea size factor (value-weighted)
+data/factors/jkp/JKP_kor_value_daily_vw_cap.csv,data,JKP South Korea value factor (value-weighted)
+data/factors/jkp/JKP_mys_FF3_daily_decimal.csv,data,JKP Malaysia merged FF3 factors (with RF)
+data/factors/jkp/JKP_mys_FF5_daily_decimal.csv,data,JKP Malaysia merged FF5 factors (with RF)
+data/factors/jkp/JKP_mys_investment_daily_vw_cap.csv,data,JKP Malaysia investment factor (value-weighted)
+data/factors/jkp/JKP_mys_mkt_daily_vw_cap.csv,data,JKP Malaysia mkt factor (value-weighted)
+data/factors/jkp/JKP_mys_profitability_daily_vw_cap.csv,data,JKP Malaysia profitability factor (value-weighted)
+data/factors/jkp/JKP_mys_size_daily_vw_cap.csv,data,JKP Malaysia size factor (value-weighted)
+data/factors/jkp/JKP_mys_value_daily_vw_cap.csv,data,JKP Malaysia value factor (value-weighted)
+data/factors/jkp/JKP_tha_FF3_daily_decimal.csv,data,JKP Thailand merged FF3 factors (with RF)
+data/factors/jkp/JKP_tha_FF5_daily_decimal.csv,data,JKP Thailand merged FF5 factors (with RF)
+data/factors/jkp/JKP_tha_investment_daily_vw_cap.csv,data,JKP Thailand investment factor (value-weighted)
+data/factors/jkp/JKP_tha_mkt_daily_vw_cap.csv,data,JKP Thailand mkt factor (value-weighted)
+data/factors/jkp/JKP_tha_profitability_daily_vw_cap.csv,data,JKP Thailand profitability factor (value-weighted)
+data/factors/jkp/JKP_tha_size_daily_vw_cap.csv,data,JKP Thailand size factor (value-weighted)
+data/factors/jkp/JKP_tha_value_daily_vw_cap.csv,data,JKP Thailand value factor (value-weighted)
+data/factors/jkp/JKP_tur_FF3_daily_decimal.csv,data,JKP Turkey merged FF3 factors (with RF)
+data/factors/jkp/JKP_tur_FF5_daily_decimal.csv,data,JKP Turkey merged FF5 factors (with RF)
+data/factors/jkp/JKP_tur_investment_daily_vw_cap.csv,data,JKP Turkey investment factor (value-weighted)
+data/factors/jkp/JKP_tur_mkt_daily_vw_cap.csv,data,JKP Turkey mkt factor (value-weighted)
+data/factors/jkp/JKP_tur_profitability_daily_vw_cap.csv,data,JKP Turkey profitability factor (value-weighted)
+data/factors/jkp/JKP_tur_size_daily_vw_cap.csv,data,JKP Turkey size factor (value-weighted)
+data/factors/jkp/JKP_tur_value_daily_vw_cap.csv,data,JKP Turkey value factor (value-weighted)
+data/fx/usd_per_local_currency.csv,data,Daily USD per local-currency FX rates
+data/metadata/benchmark_sample.csv,data,Local benchmark list (17)
+data/metadata/company_benchmark_pairing.csv,data,Firm–local benchmark pairing
+data/metadata/company_sample.csv,data,"Master sample list (75 firms, with industry, size, exposure)"
+data/metadata/factor_region_map.csv,data,Firm factor-region map
+data/prices/benchmarks/000001_SS_Shanghai_Composite_Index.csv,data,Daily benchmark index prices: SS Shanghai Composite Index
+data/prices/benchmarks/ATX_Austrian_Traded_Index.csv,data,Daily benchmark index prices: Austrian Traded Index
+data/prices/benchmarks/AXJO_SP_ASX_200.csv,data,Daily benchmark index prices: SP ASX 200
+data/prices/benchmarks/FTSE_FTSE_100.csv,data,Daily benchmark index prices: FTSE 100
+data/prices/benchmarks/GSPC_SP_500.csv,data,Daily benchmark index prices: SP 500
+data/prices/benchmarks/GSPTSE_SP_TSX_Composite.csv,data,Daily benchmark index prices: SP TSX Composite
+data/prices/benchmarks/HSI_Hang_Seng_Index.csv,data,Daily benchmark index prices: Hang Seng Index
+data/prices/benchmarks/KLSE_FTSE_Bursa_Malaysia_KLCI.csv,data,Daily benchmark index prices: FTSE Bursa Malaysia KLCI
+data/prices/benchmarks/KS11_KOSPI.csv,data,Daily benchmark index prices: KOSPI
+data/prices/benchmarks/N225_Nikkei_225.csv,data,Daily benchmark index prices: Nikkei 225
+data/prices/benchmarks/NZ50_SP_NZX_50.csv,data,Daily benchmark index prices: SP NZX 50
+data/prices/benchmarks/OSEBX_OL_Oslo_Benchmark_Index.csv,data,Daily benchmark index prices: OL Oslo Benchmark Index
+data/prices/benchmarks/SET_BK_SET_Index.csv,data,Daily benchmark index prices: BK SET Index
+data/prices/benchmarks/SSMI_Swiss_Market_Index.csv,data,Daily benchmark index prices: Swiss Market Index
+data/prices/benchmarks/STI_Straits_Times_Index.csv,data,Daily benchmark index prices: Straits Times Index
+data/prices/benchmarks/STOXX_STOXX_Europe_600.csv,data,Daily benchmark index prices: STOXX Europe 600
+data/prices/benchmarks/XU100_BIST_100.csv,data,Daily benchmark index prices: BIST 100
+data/prices/companies/003490_KS_Korean_Air.csv,data,"Daily prices: Korean Air (003490.KS, South Korea, airline)"
+data/prices/companies/0069_HK_Shangri-La_Asia.csv,data,"Daily prices: Shangri-La Asia (0069.HK, Hong Kong, tourism_hotel)"
+data/prices/companies/020560_KS_Asiana_Airlines.csv,data,"Daily prices: Asiana Airlines (020560.KS, South Korea, airline)"
+data/prices/companies/0293_HK_Cathay_Pacific.csv,data,"Daily prices: Cathay Pacific (0293.HK, Hong Kong, airline)"
+data/prices/companies/0670_HK_China_Eastern_Airlines.csv,data,"Daily prices: China Eastern Airlines (0670.HK, China, airline)"
+data/prices/companies/0694_HK_Beijing_Capital_International_Airport.csv,data,"Daily prices: Beijing Capital International Airport (0694.HK, China, airport)"
+data/prices/companies/0753_HK_Air_China.csv,data,"Daily prices: Air China (0753.HK, China, airline)"
+data/prices/companies/1023_KL_CIMB_Group.csv,data,"Daily prices: CIMB Group (1023.KL, Malaysia, insurance_finance)"
+data/prices/companies/1055_HK_China_Southern_Airlines.csv,data,"Daily prices: China Southern Airlines (1055.HK, China, airline)"
+data/prices/companies/1155_KL_Maybank.csv,data,"Daily prices: Maybank (1155.KL, Malaysia, insurance_finance)"
+data/prices/companies/1295_KL_Public_Bank.csv,data,"Daily prices: Public Bank (1295.KL, Malaysia, insurance_finance)"
+data/prices/companies/1339_HK_PICC.csv,data,"Daily prices: PICC (1339.HK, China, insurance_finance)"
+data/prices/companies/2318_HK_Ping_An_Insurance.csv,data,"Daily prices: Ping An Insurance (2318.HK, China, insurance_finance)"
+data/prices/companies/2601_HK_China_Pacific_Insurance.csv,data,"Daily prices: China Pacific Insurance (2601.HK, China, insurance_finance)"
+data/prices/companies/4715_KL_Genting_Malaysia.csv,data,"Daily prices: Genting Malaysia (4715.KL, Malaysia, tourism_hotel)"
+data/prices/companies/5099_KL_AirAsia_Capital_A.csv,data,"Daily prices: AirAsia Capital A (5099.KL, Malaysia, airline)"
+data/prices/companies/5819_KL_Hong_Leong_Bank.csv,data,"Daily prices: Hong Leong Bank (5819.KL, Malaysia, insurance_finance)"
+data/prices/companies/600004_SS_Guangzhou_Baiyun_International_Airport.csv,data,"Daily prices: Guangzhou Baiyun International Airport (600004.SS, China, airport)"
+data/prices/companies/600009_SS_Shanghai_International_Airport.csv,data,"Daily prices: Shanghai International Airport (600009.SS, China, airport)"
+data/prices/companies/600754_SS_Jin_Jiang_Hotels.csv,data,"Daily prices: Jin Jiang Hotels (600754.SS, China, tourism_hotel)"
+data/prices/companies/8630_T_Sompo_Holdings.csv,data,"Daily prices: Sompo Holdings (8630.T, Japan, insurance_finance)"
+data/prices/companies/8725_T_MS_AD_Insurance_Group.csv,data,"Daily prices: MS&AD Insurance Group (8725.T, Japan, insurance_finance)"
+data/prices/companies/8766_T_Tokio_Marine_Holdings.csv,data,"Daily prices: Tokio Marine Holdings (8766.T, Japan, insurance_finance)"
+data/prices/companies/9201_T_Japan_Airlines.csv,data,"Daily prices: Japan Airlines (9201.T, Japan, airline)"
+data/prices/companies/9202_T_ANA_Holdings.csv,data,"Daily prices: ANA Holdings (9202.T, Japan, airline)"
+data/prices/companies/AAL_American_Airlines_Group.csv,data,"Daily prices: American Airlines Group (AAL, United States, airline)"
+data/prices/companies/AC_PA_Accor.csv,data,"Daily prices: Accor (AC.PA, France, tourism_hotel)"
+data/prices/companies/AC_TO_Air_Canada.csv,data,"Daily prices: Air Canada (AC.TO, Canada, airline)"
+data/prices/companies/ADP_PA_Groupe_ADP.csv,data,"Daily prices: Groupe ADP (ADP.PA, France, airport)"
+data/prices/companies/AF_PA_Air_France-KLM.csv,data,"Daily prices: Air France-KLM (AF.PA, France, airline)"
+data/prices/companies/AIA_NZ_Auckland_International_Airport.csv,data,"Daily prices: Auckland International Airport (AIA.NZ, New Zealand, airport)"
+data/prices/companies/AIG_AIG.csv,data,"Daily prices: AIG (AIG, United States, insurance_finance)"
+data/prices/companies/AIRPORT_KL_Malaysia_Airports_Holdings.csv,data,"Daily prices: Malaysia Airports Holdings (AIRPORT.KL, Malaysia, airport)"
+data/prices/companies/AIR_NZ_Air_New_Zealand.csv,data,"Daily prices: Air New Zealand (AIR.NZ, New Zealand, airline)"
+data/prices/companies/ALGT_Allegiant_Travel.csv,data,"Daily prices: Allegiant Travel (ALGT, United States, airline)"
+data/prices/companies/ALK_Alaska_Air_Group.csv,data,"Daily prices: Alaska Air Group (ALK, United States, airline)"
+data/prices/companies/ALV_DE_Allianz.csv,data,"Daily prices: Allianz (ALV.DE, Germany, insurance_finance)"
+data/prices/companies/ASR_Grupo_Aeroportuario_del_Sureste.csv,data,"Daily prices: Grupo Aeroportuario del Sureste (ASR, Mexico/United States ADR, airport)"
+data/prices/companies/BKNG_Booking_Holdings_Priceline.csv,data,"Daily prices: Booking Holdings Priceline (BKNG, United States, tourism_hotel)"
+data/prices/companies/C6L_SI_Singapore_Airlines.csv,data,"Daily prices: Singapore Airlines (C6L.SI, Singapore, airline)"
+data/prices/companies/CHH_Choice_Hotels.csv,data,"Daily prices: Choice Hotels (CHH, United States, tourism_hotel)"
+data/prices/companies/CPA_Copa_Holdings.csv,data,"Daily prices: Copa Holdings (CPA, Panama/United States, airline)"
+data/prices/companies/CS_PA_AXA.csv,data,"Daily prices: AXA (CS.PA, France, insurance_finance)"
+data/prices/companies/DAL_Delta_Air_Lines.csv,data,"Daily prices: Delta Air Lines (DAL, United States, airline)"
+data/prices/companies/EXPE_Expedia.csv,data,"Daily prices: Expedia (EXPE, United States, tourism_hotel)"
+data/prices/companies/EZJ_L_easyJet.csv,data,"Daily prices: easyJet (EZJ.L, United Kingdom, airline)"
+data/prices/companies/FHZN_SW_Flughafen_Zurich.csv,data,"Daily prices: Flughafen Zurich (FHZN.SW, Switzerland, airport)"
+data/prices/companies/FLT_AX_Flight_Centre_Travel_Group.csv,data,"Daily prices: Flight Centre Travel Group (FLT.AX, Australia, tourism_hotel)"
+data/prices/companies/FLU_VI_Flughafen_Wien.csv,data,"Daily prices: Flughafen Wien (FLU.VI, Austria, airport)"
+data/prices/companies/FRA_DE_Fraport.csv,data,"Daily prices: Fraport (FRA.DE, Germany, airport)"
+data/prices/companies/H_Hyatt_Hotels.csv,data,"Daily prices: Hyatt Hotels (H, United States, tourism_hotel)"
+data/prices/companies/IAG_L_International_Airlines_Group.csv,data,"Daily prices: International Airlines Group (IAG.L, United Kingdom, airline)"
+data/prices/companies/IHG_InterContinental_Hotels_Group.csv,data,"Daily prices: InterContinental Hotels Group (IHG, United Kingdom, tourism_hotel)"
+data/prices/companies/JBLU_JetBlue_Airways.csv,data,"Daily prices: JetBlue Airways (JBLU, United States, airline)"
+data/prices/companies/LHA_DE_Lufthansa.csv,data,"Daily prices: Lufthansa (LHA.DE, Germany, airline)"
+data/prices/companies/LUV_Southwest_Airlines.csv,data,"Daily prices: Southwest Airlines (LUV, United States, airline)"
+data/prices/companies/MAR_Marriott.csv,data,"Daily prices: Marriott (MAR, United States, tourism_hotel)"
+data/prices/companies/MEL_MC_Melia_Hotels_International.csv,data,"Daily prices: Melia Hotels International (MEL.MC, Spain, tourism_hotel)"
+data/prices/companies/MUV2_DE_Munich_Re.csv,data,"Daily prices: Munich Re (MUV2.DE, Germany, insurance_finance)"
+data/prices/companies/NAS_OL_Norwegian_Air_Shuttle.csv,data,"Daily prices: Norwegian Air Shuttle (NAS.OL, Norway, airline)"
+data/prices/companies/OMAB_Grupo_Aeroportuario_del_Centro_Norte.csv,data,"Daily prices: Grupo Aeroportuario del Centro Norte (OMAB, Mexico/United States ADR, airport)"
+data/prices/companies/PAC_Grupo_Aeroportuario_del_Pacifico.csv,data,"Daily prices: Grupo Aeroportuario del Pacifico (PAC, Mexico/United States ADR, airport)"
+data/prices/companies/QAN_AX_Qantas_Airways.csv,data,"Daily prices: Qantas Airways (QAN.AX, Australia, airline)"
+data/prices/companies/QBE_AX_QBE_Insurance.csv,data,"Daily prices: QBE Insurance (QBE.AX, Australia, insurance_finance)"
+data/prices/companies/RYAAY_Ryanair.csv,data,"Daily prices: Ryanair (RYAAY, Ireland, airline)"
+data/prices/companies/SKYW_SkyWest.csv,data,"Daily prices: SkyWest (SKYW, United States, airline)"
+data/prices/companies/SREN_SW_Swiss_Re.csv,data,"Daily prices: Swiss Re (SREN.SW, Switzerland, insurance_finance)"
+data/prices/companies/TAVHL_IS_TAV_Airports.csv,data,"Daily prices: TAV Airports (TAVHL.IS, Turkey, airport)"
+data/prices/companies/TCOM_Trip_com_Ctrip.csv,data,"Daily prices: Trip.com Ctrip (TCOM, China, tourism_hotel)"
+data/prices/companies/THAI_BK_Thai_Airways.csv,data,"Daily prices: Thai Airways (THAI.BK, Thailand, airline)"
+data/prices/companies/THYAO_IS_Turkish_Airlines.csv,data,"Daily prices: Turkish Airlines (THYAO.IS, Turkey, airline)"
+data/prices/companies/TUI1_DE_TUI.csv,data,"Daily prices: TUI (TUI1.DE, Germany/United Kingdom, tourism_hotel)"
+data/prices/companies/TZOO_Travelzoo.csv,data,"Daily prices: Travelzoo (TZOO, United States, tourism_hotel)"
+data/prices/companies/UAL_United_Airlines.csv,data,"Daily prices: United Airlines (UAL, United States, airline)"
+data/prices/companies/WEB_AX_Webjet.csv,data,"Daily prices: Webjet (WEB.AX, Australia, tourism_hotel)"
+docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_cn.pdf,docs,Chinese translation of the reference paper
+docs/literature/Anghel_et_al_2024_Black_Swan_Events_Oil_European_Markets_en.pdf,docs,"Reference paper (Anghel et al., 2024), original English"
+file_inventory_cn.csv,root,Inventory of all files (Chinese)
+file_inventory_en.csv,root,Inventory of all files (English)
+mh370_study/__init__.py,code,Package description and module index
+mh370_study/config.py,code,Global parameters and data paths
+mh370_study/contagion_tests.py,code,Ch.5: DCC-GARCH and Forbes-Rigobon contagion tests
+mh370_study/data_alignment.py,code,"Ch.3: price loading, calendar alignment, descriptives"
+mh370_study/event_study.py,code,"Ch.4/6: event study, ADJ-BMP, mechanism regressions, AVR, DiD"
+mh370_study/factor_models.py,code,Ch.4: FF3/FF5 multi-factor robustness (Table 4-4)
+mh370_study/figures.py,code,All figures
+mh370_study/garch_var.py,code,Ch.7: GARCH distribution choice and multi-level VaR backtests
+mh370_study/headline_summary.py,code,Ch.9: headline results (Table 9-1)
+mh370_study/power_mde.py,code,Ch.8: power and MDE (Table 8-1)
+mh370_study/robustness.py,code,"Robustness checks (Tables 4-3, 5-3)"
+mh370_study/run_all.py,code,Run the full analysis
+mh370_study/stats_utils.py,code,Shared statistical utilities
+requirements.txt,root,Package requirements
+results/figures/figure3_1_data_coverage_heatmap.png,results,Fig. 3-1 data-coverage heatmap
+results/figures/figure4_1_event_time_caar.png,results,Fig. 4-1 event-time CAAR
+results/figures/figure5_1_core_pair_dcc_path.png,results,Fig. 5-1 core-pair DCC path
+results/figures/figure7_1_garch_var_boundary.png,results,Fig. 7-1 GARCH out-of-sample VaR boundary
+results/figures/figure7_2_multilevel_var_coverage.png,results,Fig. 7-2 multi-level VaR coverage
+results/figures/figure8_1_power_mde_forest.png,results,Fig. 8-1 MDE forest plot
+results/logs/run_manifest.json,results,Run environment and timings
+results/results_index_cn.csv,results,Index of result tables (Chinese)
+results/results_index_en.csv,results,Index of result tables (English)
+results/tables/appendix_ff_caar_by_region.csv,results,Multi-factor CAAR by region
+results/tables/ch4_estimation_window_std_residuals.csv,results,Estimation-window standardised residuals
+results/tables/ch4_ff_caar_all_windows.csv,results,Multi-factor CAAR for all windows
+results/tables/ch4_ff_factor_region_assignment.csv,results,Factor-region assignment by firm
+results/tables/ch4_ff_firm_level_car.csv,results,Multi-factor firm-level CARs
+results/tables/ch4_ff_regression_diagnostics.csv,results,Multi-factor regression diagnostics
+results/tables/ch4_ff_validation_checks.csv,results,Multi-factor run checks
+results/tables/ch4_firm_level_ar_car.csv,results,Firm-level CARs and tests by window
+results/tables/ch5_fr_contagion_exceptions.csv,results,Pairs flagged as contagion after FDR
+results/tables/figure4_1_caar_by_exposure_group_data.csv,results,Figure 4-1 data: CAAR by exposure group
+results/tables/figure4_1_event_time_caar_data.csv,results,Figure 4-1 data: event-time CAAR
+results/tables/table3_1_sample_coverage_diagnostics.csv,results,Sample coverage diagnostics
+results/tables/table3_3_return_statistics_archlm.csv,results,Daily-return statistics and ARCH-LM tests
+results/tables/table4_1_aggregate_caar_tests.csv,results,Aggregate CAAR and cross-sectional tests
+results/tables/table4_2_exposure_gradient_hc3.csv,results,Exposure-gradient HC3 cross-sectional regression
+results/tables/table4_2_size_contrast_long_car.csv,results,Size contrasts of long-window CAR (permutation)
+results/tables/table4_3_window_sensitivity.csv,results,Alternative estimation and extended event windows
+results/tables/table4_4_multifactor_robustness.csv,results,FF3/FF5 multi-factor robustness
+results/tables/table5_1_forbes_rigobon.csv,results,Forbes-Rigobon tests on core pairs (w40/w60)
+results/tables/table5_2_dcc_core_pairs.csv,results,DCC-GARCH tests on core pairs
+results/tables/table5_3_dcc_pre_event_targeting.csv,results,DCC pre-event correlation targeting
+results/tables/table5_4_fr_mh17_cluster_window.csv,results,90-day disaster-cluster window spanning MH17
+results/tables/table6_1_idiosyncratic_volatility_avr.csv,results,Idiosyncratic volatility and AVR
+results/tables/table6_2_volatility_did.csv,results,Idiosyncratic-volatility DiD test
+results/tables/table6_2_volatility_did_sample.csv,results,DiD sample detail
+results/tables/table6_3_avr_prewindow_robustness.csv,results,AVR pre-window robustness
+results/tables/table6_4_size_contrast_logavr60.csv,results,Size contrasts of logAVR60
+results/tables/table6_4_size_interaction_logavr120.csv,results,Size-interaction regression of logAVR120
+results/tables/table7_1_garch_convergence.csv,results,GARCH convergence by distribution
+results/tables/table7_1_garch_oos_refits.csv,results,GARCH out-of-sample refits
+results/tables/table7_1_garch_parameters.csv,results,GARCH parameters and distribution choice
+results/tables/table7_2_var_backtests.csv,results,Per-level VaR coverage backtests
+results/tables/table7_3_multilevel_var.csv,results,Multi-level multinomial VaR test (Nass)
+results/tables/table8_1_power_mde.csv,results,Power and minimum detectable effects
+results/tables/table9_1_headline_results.csv,results,Headline results
+tests/conftest.py,tests,pytest configuration
+tests/test_core_econometrics.py,tests,Unit tests for core econometric methods
+tests/test_methods.py,tests,Method implementation tests

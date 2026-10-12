@@ -1,0 +1,36 @@
+file,chapter,description,rows
+tables/appendix_ff_caar_by_region.csv,Appendix,Multi-factor CAAR by region,80
+tables/ch4_estimation_window_std_residuals.csv,Ch.4,Estimation-window standardised residuals,181
+tables/ch4_ff_caar_all_windows.csv,Ch.4,Multi-factor CAAR for all windows,24
+tables/ch4_ff_factor_region_assignment.csv,Ch.4,Factor-region assignment by firm,75
+tables/ch4_ff_firm_level_car.csv,Ch.4,Multi-factor firm-level CARs,1200
+tables/ch4_ff_regression_diagnostics.csv,Ch.4,Multi-factor regression diagnostics,150
+tables/ch4_ff_validation_checks.csv,Ch.4,Multi-factor run checks,7
+tables/ch4_firm_level_ar_car.csv,Ch.4,Firm-level CARs and tests by window,600
+tables/ch5_fr_contagion_exceptions.csv,Ch.5,Pairs flagged as contagion after FDR,0
+tables/figure4_1_caar_by_exposure_group_data.csv,Ch.4,Figure 4-1 data: CAAR by exposure group,262
+tables/figure4_1_event_time_caar_data.csv,Ch.4,Figure 4-1 data: event-time CAAR,131
+tables/table3_1_sample_coverage_diagnostics.csv,Ch.3,Sample coverage diagnostics,75
+tables/table3_3_return_statistics_archlm.csv,Ch.3,Daily-return statistics and ARCH-LM tests,75
+tables/table4_1_aggregate_caar_tests.csv,Ch.4,Aggregate CAAR and cross-sectional tests,8
+tables/table4_2_exposure_gradient_hc3.csv,Ch.4,Exposure-gradient HC3 cross-sectional regression,9
+tables/table4_2_size_contrast_long_car.csv,Ch.4,Size contrasts of long-window CAR (permutation),3
+tables/table4_3_window_sensitivity.csv,Ch.4,Alternative estimation and extended event windows,150
+tables/table4_4_multifactor_robustness.csv,Ch.4,FF3/FF5 multi-factor robustness,12
+tables/table5_1_forbes_rigobon.csv,Ch.5,Forbes-Rigobon tests on core pairs (w40/w60),38
+tables/table5_2_dcc_core_pairs.csv,Ch.5,DCC-GARCH tests on core pairs,57
+tables/table5_3_dcc_pre_event_targeting.csv,Ch.5,DCC pre-event correlation targeting,114
+tables/table5_4_fr_mh17_cluster_window.csv,Ch.5,90-day disaster-cluster window spanning MH17,19
+tables/table6_1_idiosyncratic_volatility_avr.csv,Ch.6,Idiosyncratic volatility and AVR,75
+tables/table6_2_volatility_did.csv,Ch.6,Idiosyncratic-volatility DiD test,2
+tables/table6_2_volatility_did_sample.csv,Ch.6,DiD sample detail,75
+tables/table6_3_avr_prewindow_robustness.csv,Ch.6,AVR pre-window robustness,4
+tables/table6_4_size_contrast_logavr60.csv,Ch.6,Size contrasts of logAVR60,3
+tables/table6_4_size_interaction_logavr120.csv,Ch.6,Size-interaction regression of logAVR120,10
+tables/table7_1_garch_convergence.csv,Ch.7,GARCH convergence by distribution,225
+tables/table7_1_garch_oos_refits.csv,Ch.7,GARCH out-of-sample refits,3569
+tables/table7_1_garch_parameters.csv,Ch.7,GARCH parameters and distribution choice,75
+tables/table7_2_var_backtests.csv,Ch.7,Per-level VaR coverage backtests,300
+tables/table7_3_multilevel_var.csv,Ch.7,Multi-level multinomial VaR test (Nass),75
+tables/table8_1_power_mde.csv,Ch.8,Power and minimum detectable effects,15
+tables/table9_1_headline_results.csv,Ch.9,Headline results,5
